@@ -4,7 +4,7 @@
 
 **`Estudante de programação`**
 
-Chamo *Denylson Miguel Gervasio Pereira*, tenho 14 anos e sou natural de Natuba Paraíba. estou estudando para ser Desenvolvedor Front-end. Sou apaixonado por tecnologia.
+Me chamo *Denylson Miguel Gervasio Pereira*, tenho 14 anos sou de Natuba Paraíba. Me encontro estudando para ser Desenvolvedor Front-end. Sou apaixonado por tecnologia.
 
 ---
 
@@ -42,7 +42,7 @@ Chamo *Denylson Miguel Gervasio Pereira*, tenho 14 anos e sou natural de Natuba 
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=D3nyls0nn&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=DenylsonMiguel&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 
@@ -50,7 +50,7 @@ Chamo *Denylson Miguel Gervasio Pereira*, tenho 14 anos e sou natural de Natuba 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=D3nyls0nn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenylsonMiguel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
 </p>
