@@ -42,6 +42,7 @@ Me chamo *Denylson Miguel Gervasio Pereira*, tenho 14 anos sou de Natuba Paraíb
       align="left" 
       alt="GitHub Stats" 
       height="200" 
+      style="padding-top: 10px;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenylsonMiguel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
   />
 
