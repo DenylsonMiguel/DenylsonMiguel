@@ -1,14 +1,10 @@
-## 🌕 Denylson Miguel
+# 🌕 Denylson Miguel
+
+**Estudante de programação apaixonado por tecnologia, focado em se tornar um Desenvolvedor Front-end. Natural de Natuba, Paraíba, 14 anos.**
 
 ---
 
-**`Estudante de programação`**
-
-Me chamo *Denylson Miguel Gervasio Pereira*, tenho 14 anos sou de Natuba Paraíba. Me encontro estudando para ser Desenvolvedor Front-end. Sou apaixonado por tecnologia.
-
----
-
-##Linguagens e tecnologias
+## 💻 Linguagens e Tecnologias
 
 <div>
 <img 
@@ -35,15 +31,40 @@ Me chamo *Denylson Miguel Gervasio Pereira*, tenho 14 anos sou de Natuba Paraíb
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+</div>
+
+<br>
+
+---
+
+## 📂 Repositórios em Destaque
+
+- 📘 [Estudos](https://github.com/DenylsonMiguel/estudos)  
+  Repositório com exercícios, projetos e anotações dos meus estudos de HTML, CSS e JavaScript.
+
+- 🧪 [Teste Blog](https://github.com/DenylsonMiguel/teste-blog)  
+  Projeto experimental de blog desenvolvido para aplicar conceitos de layout e responsividade.
+
+---
+
+## 📈 GitHub Stats
 
 <p>
-
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      style="padding-top: 80px;"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenylsonMiguel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
-  />
-
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-top: 80px;"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenylsonMiguel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
+/>
 </p>
+
+---
+
+## 🤝 Contato
+
+Quer trocar uma ideia, colaborar ou acompanhar minha evolução?  
+**Fique à vontade para me seguir ou mandar uma mensagem!**  
+
+- [LinkedIn](https://www.linkedin.com/in/denylson-miguel-gervasio-pereira-13148836b/)  
+- [GitHub](https://github.com/DenylsonMiguel)
