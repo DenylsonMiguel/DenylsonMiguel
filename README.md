@@ -33,7 +33,7 @@
 />
 </div>
 
-<br>
+<br><br><br>
 
 ---
 
@@ -49,15 +49,13 @@
 
 ## 📈 GitHub Stats
 
-<p>
 <img 
-    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-top: 80px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenylsonMiguel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=3" 
 />
-</p>
+
+<br><br>
 
 ---
 
