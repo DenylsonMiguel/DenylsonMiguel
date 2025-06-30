@@ -31,6 +31,15 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="PHP" 
+    title="PHP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
 </div>
 
 <br><br><br>
@@ -40,7 +49,7 @@
 ## 📂 Repositórios em Destaque
 
 - 📘 [Estudos](https://github.com/DenylsonMiguel/estudos)  
-  Repositório com exercícios, projetos e anotações dos meus estudos de HTML, CSS e JavaScript.
+  Repositório com exercícios, projetos e anotações dos meus estudos de HTML, CSS, JavaScript e PHP.
 
 - 🧪 [Teste Blog](https://github.com/DenylsonMiguel/teste-blog)  
   Projeto experimental de blog desenvolvido para aplicar conceitos de layout e responsividade.
