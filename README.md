@@ -31,7 +31,22 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="TypeScript" 
+    title="TypeScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Go" 
+    title="Go (Golang)"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
+/>
 <img 
     align="left" 
     alt="PHP" 
@@ -49,7 +64,7 @@
 ## 📂 Repositórios em Destaque
 
 - 📘 [Estudos](https://github.com/DenylsonMiguel/estudos)  
-  Repositório com exercícios, projetos e anotações dos meus estudos de HTML, CSS, JavaScript e PHP.
+  Repositório com exercícios, projetos e anotações dos meus estudos de HTML, CSS, JavaScript, PHP, TypeScript e Go.
 
 - 🧪 [Teste Blog](https://github.com/DenylsonMiguel/teste-blog)  
   Projeto experimental de blog desenvolvido para aplicar conceitos de layout e responsividade.
@@ -61,7 +76,7 @@
 <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenylsonMiguel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=4" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenylsonMiguel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
 />
 
 <br><br>
