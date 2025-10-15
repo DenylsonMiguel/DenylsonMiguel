@@ -1,28 +1,12 @@
 # 🌕 Denylson Miguel
 
-**Estudante de programação apaixonado por tecnologia, focado em se tornar um Desenvolvedor Front-end. Natural de Natuba, Paraíba, 14 anos.**
+**Estudante de programação apaixonado por tecnologia, focado em se tornar um Desenvolvedor Back-End. Natural de Natuba, Paraíba, 14 anos.**
 
 ---
 
 ## 💻 Linguagens e Tecnologias
 
 <div>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
 <img 
     align="left" 
     alt="JavaScript" 
@@ -39,35 +23,9 @@
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Go" 
-    title="Go (Golang)"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
 </div>
 
 <br><br><br>
-
----
-
-## 📂 Repositórios em Destaque
-
-- 📘 [Estudos](https://github.com/DenylsonMiguel/estudos)  
-  Repositório com exercícios, projetos e anotações dos meus estudos de HTML, CSS, JavaScript, PHP, TypeScript e Go.
-
-- 🧪 [Teste Blog](https://github.com/DenylsonMiguel/teste-blog)  
-  Projeto experimental de blog desenvolvido para aplicar conceitos de layout e responsividade.
 
 ---
 
@@ -83,9 +41,9 @@
 
 ---
 
-## 🤝 Contato
+## Contato
 
-Quer trocar uma ideia, colaborar ou acompanhar minha evolução?  
+Quer trocar uma ideia?  
 **Fique à vontade para me seguir ou mandar uma mensagem!**  
 
 - [LinkedIn](https://www.linkedin.com/in/denylson-miguel-gervasio-pereira-13148836b/)  
