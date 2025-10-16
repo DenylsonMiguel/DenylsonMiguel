@@ -1,6 +1,6 @@
 # 🌕 Denylson Miguel
 
-**Estudante de programação apaixonado por tecnologia, focado em se tornar um Desenvolvedor Back-End. Natural de Natuba, Paraíba, 14 anos.**
+**Estudante de programação apaixonado por tecnologia, com foco em se tornar um Desenvolvedor Back-End. Sou de Natuba, Paraíba, tenho 14 anos, dedicado a aprender e aplicar boas práticas de desenvolvimento para criar soluções eficientes e de impacto.**
 
 ---
 
@@ -62,6 +62,12 @@
 />
 
 <br><br>
+
+---
+
+## Repositórios Fixados
+
+
 
 ---
 
