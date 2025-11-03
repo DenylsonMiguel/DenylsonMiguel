@@ -58,7 +58,18 @@
 <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenylsonMiguel&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=2" 
+    src="https://github-readme-stats.vercel.app/api?username=DenylsonMiguel&theme=nord&show_icons=true&hide_border=true&count_private=true" 
+/>
+
+<img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=DenylsonMiguel&theme=nord&hide_border=true" 
+/>
+<img 
+    alt="GitHub Stats" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenylsonMiguel&theme=nord&show_icons=true&hide_border=true&layout=compact" 
 />
 
 <br><br>
