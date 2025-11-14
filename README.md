@@ -69,7 +69,7 @@
 <img 
     alt="GitHub Stats" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenylsonMiguel&theme=nord&show_icons=true&hide_border=true&layout=compact" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenylsonMiguel&theme=nord&show_icons=true&hide_border=true&layout=compact"
 />
 
 <br><br>
@@ -78,7 +78,15 @@
 
 ## Repositórios Fixados
 
+## Meus Projetos Fixados
 
+### Skillit
+[![Skillit](https://img.shields.io/badge/Skillit-Reddit_de_skills-blue?style=for-the-badge)](https://github.com/DenylsonMiguel/Skillit)  
+Rede social de compartilhamento de skills, feita com Express, Mongoose e MongoDB.
+
+### ToDo List
+[![ToDo List](https://img.shields.io/badge/Simple%20Todo-Todo_list_simples-green?style=for-the-badge)](https://github.com/DenylsonMiguel/sample-express-todo)  
+Lista de tarefas simples usando Prisma, Express e MongoDB.
 
 ---
 
