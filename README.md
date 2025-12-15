@@ -92,10 +92,9 @@
 [![Skillit](https://img.shields.io/badge/Skillit-Reddit_de_skills-blue?style=for-the-badge)](https://github.com/DenylsonMiguel/Skillit)  
 Rede social de compartilhamento de skills, feita com Express, Mongoose e MongoDB.
 
-### ToDo List
+### StudyPilot
 [![ToDo List](https://img.shields.io/badge/Simple%20Todo-Todo_list_simples-green?style=for-the-badge)](https://github.com/DenylsonMiguel/sample-express-todo)  
-Lista de tarefas simples usando Prisma, Express e MongoDB.
-
+Copiloto de estudos para organização e acompanhamento do aprendizado.
 ---
 
 ## Contato
