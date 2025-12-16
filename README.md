@@ -93,8 +93,9 @@
 Rede social de compartilhamento de skills, feita com Express, Mongoose e MongoDB.
 
 ### StudyPilot
-[![StudyPilot](https://img.shields.io/badge/StudyPilot-Copiloto_de_estudos-blue?style=for-the-badge)](https://github.com/DenylsonMiguel/StudyPilot)  
+[![StudyPilot](https://img.shields.io/badge/StudyPilot-Copiloto_de_estudos-blue?style=for-the-badge)](https://github.com/DenylsonMiguel/Study-Pilot)  
 Copiloto de estudos para organização e acompanhamento do aprendizado.
+
 ---
 
 ## Contato
